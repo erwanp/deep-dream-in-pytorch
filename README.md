@@ -1,3 +1,10 @@
+Implemented using Webcam as input: 
+
+https://github.com/erwanp/DeepDreamWebcam
+
+---
+
+
 # deep-dream-in-pytorch
 Pytorch (https://github.com/pytorch/pytorch) implementation of the deep dream (https://en.wikipedia.org/wiki/DeepDream) computer vision algorithm
 
